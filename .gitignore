@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+.idea/encodings.xml
+.idea/import-amusic-playlist.iml
+.idea/modules.xml
+.idea/workspace.xml

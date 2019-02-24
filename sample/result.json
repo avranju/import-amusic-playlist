@@ -1,0 +1,78 @@
+{
+  "results": {
+    "songs": {
+      "href": "/v1/catalog/us/search?limit=2&term=nallai+allai+kaatru+veliyidai&types=songs",
+      "next": "/v1/catalog/us/search?offset=2&term=nallai+allai+kaatru+veliyidai&types=songs",
+      "data": [
+        {
+          "id": "1215596355",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1215596355",
+          "attributes": {
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview122/v4/75/5d/71/755d71a1-01d7-6029-f9d5-191c0659c3c9/mzaf_6168169508460229873.plus.aac.p.m4a"
+              }
+            ],
+            "artwork": {
+              "width": 3000,
+              "height": 3000,
+              "url": "https://is2-ssl.mzstatic.com/image/thumb/Music111/v4/05/97/be/0597befe-4c9d-6be7-ed37-ca020474deb8/source/{w}x{h}bb.jpeg",
+              "bgColor": "d6d2c7",
+              "textColor1": "331606",
+              "textColor2": "3c1d07",
+              "textColor3": "533c2c",
+              "textColor4": "5b412d"
+            },
+            "artistName": "A. R. Rahman, Sathya Prakash & Chinmayi",
+            "url": "https://itunes.apple.com/us/album/nallai-allai/1215595688?i=1215596355",
+            "discNumber": 1,
+            "genreNames": ["Tamil", "Music", "Indian", "Regional Indian"],
+            "durationInMillis": 239198,
+            "releaseDate": "2017-03-21",
+            "name": "Nallai Allai",
+            "isrc": "INS171700708",
+            "albumName": "Kaatru Veliyidai (Original Motion Picture Soundtrack) - EP",
+            "playParams": { "id": "1215596355", "kind": "song" },
+            "trackNumber": 1,
+            "composerName": "A. R. Rahman"
+          }
+        },
+        {
+          "id": "1327226844",
+          "type": "songs",
+          "href": "/v1/catalog/us/songs/1327226844",
+          "attributes": {
+            "previews": [
+              {
+                "url": "https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/46/a0/62/46a06252-4f43-9f03-1050-1ef8858a5a3f/mzaf_5319661643553960295.plus.aac.p.m4a"
+              }
+            ],
+            "artwork": {
+              "width": 3000,
+              "height": 3000,
+              "url": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/c6/c9/b6/c6c9b6a7-2b87-b25d-95a1-6278ee453150/source/{w}x{h}bb.jpeg",
+              "bgColor": "8faabb",
+              "textColor1": "090c0f",
+              "textColor2": "111416",
+              "textColor3": "242c31",
+              "textColor4": "2a3237"
+            },
+            "artistName": "A. R. Rahman, Sathya Prakash & Chinmayi",
+            "url": "https://itunes.apple.com/us/album/nallai-allai-from-kaatru-veliyidai/1327226842?i=1327226844",
+            "discNumber": 1,
+            "genreNames": ["Tamil", "Music", "Indian", "Regional Indian"],
+            "durationInMillis": 239507,
+            "releaseDate": "2017-03-21",
+            "name": "Nallai Allai (From \"Kaatru Veliyidai\")",
+            "isrc": "INS171700708",
+            "albumName": "A.R. Rahman Essentials (Rediscover)",
+            "playParams": { "id": "1327226844", "kind": "song" },
+            "trackNumber": 1,
+            "composerName": "A. R. Rahman"
+          }
+        }
+      ]
+    }
+  }
+}
